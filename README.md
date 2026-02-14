@@ -14,3 +14,4 @@ Arduino Uno • HC-SR04 Ultrasonic Sensor • Servo Motor
 ## Purpose
 Built for a first-year engineering design project to demonstrate sensor integration, embedded control, and rapid prototyping.
 
+<img width="1200" height="1136" alt="Clawphoto-removebg" src="https://github.com/user-attachments/assets/e6ec1e82-7c6b-4ef8-9312-bd0c00adeeaa" />
