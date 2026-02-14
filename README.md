@@ -9,7 +9,7 @@ Arduino-controlled robotic claw that detects nearby objects and automatically gr
 - Includes debounce timing to prevent false triggers
 
 ## Hardware
-Arduino Uno • HC-SR04 Ultrasonic Sensor • Servo Motor • 3D-printed claw
+Arduino Uno • HC-SR04 Ultrasonic Sensor • Servo Motor
 
 ## Purpose
 Built for a first-year engineering design project to demonstrate sensor integration, embedded control, and rapid prototyping.
